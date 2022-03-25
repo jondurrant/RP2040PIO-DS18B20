@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Ignore Mac system files
+.DS_Store
+@eaDir
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore files related to API keys
+.env
+
+# Build folder
+build
+
+# Eclipse files
+.cproject
+.project
+.pydevproject
+.settings
