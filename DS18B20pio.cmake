@@ -14,3 +14,4 @@ target_include_directories(ds18b20pio INTERFACE
 
 # Add the standard library to the build
 target_link_libraries(ds18b20pio INTERFACE pico_stdlib hardware_gpio hardware_pio)
+
