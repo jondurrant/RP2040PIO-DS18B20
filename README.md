@@ -12,7 +12,7 @@ See main.cxx
 
 ## Include in own projects
 Simply include DS18B20pio.cmake in your CMakefile
-Then add ds20b18pio into target_link_libaries
+Then add ds18b20pio into target_link_libaries
 
 
 ## Usage
